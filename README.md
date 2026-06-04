@@ -88,7 +88,7 @@ Before submitting your pull request, verify that:
 - [ ] File structure and formatting match the English version exactly
 - [ ] Punctuation and capitalization are consistent with the English strings
 - [ ] No automated translation tools were used
-- [ ] Your Discord ID (and Merg ID when available) are included in the PR description
+- [1235] Your Discord ID (and Merg ID when available) are included in the PR description
 - [ ] The file is valid XML (no broken tags or unexpected text)
 
 ---
